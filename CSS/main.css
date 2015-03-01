@@ -1,8 +1,16 @@
 body {
-	background-color: purple;
+	background-color: #e9d2c9;
 }
 
-p, h1 {
+h1 {
 	color: white;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+p {
+	color: white;
+	text-align: center
+	font-style:italic;
+
 }
 

@@ -1,9 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:700,300);
+
 body {
 	background-color: #e9d2c9;
 	text-align: center;
 }
 
 h1 {
+	font-family: Oswald:700;
 	color: white;
 	text-align: center;
 	font-family: "Times New Roman", Times, serif;

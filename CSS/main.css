@@ -10,13 +10,13 @@ h1 {
 	color: black;
 	text-align: center;
 	font-family: 'Playfair Display:700', serif;
-	font-size: 16px;
+	font-size: 20px;
 }
 h2 {
 	color: black;
 	text-align: center;
 	font-family: 'Playfair Display:700', serif;
-	font-size: 16px;
+	font-size: 20px;
 	text-decoration:none;
 	font-weight: normal;
 }
@@ -24,7 +24,9 @@ h2 {
 p {
 	font-family: 'Lato:300', sans-serif;
 	color: black;
-	text-align: center
+	text-align: center;
+	text-transform: uppercase;
+}
 
 }
 

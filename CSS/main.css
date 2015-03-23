@@ -5,6 +5,7 @@ body {
 	background-color: #ffffff;
 	text-align: center;
 	color: #222222;
+	font-size: 16px
 }
 
 header{
@@ -15,13 +16,13 @@ h1 {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
-	font-size: 20px;
+	font-size: 1.5em;
 }
 h2 {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
-	font-size: 20px;
+	font-size: 1.5em;
 	text-decoration:none;
 	font-weight: normal;
 }
@@ -44,7 +45,7 @@ a {
 
 ul {
     list-style-type: none;
-    margin: 5px;
+    margin: 20px;
     padding: 5px;
 }
 

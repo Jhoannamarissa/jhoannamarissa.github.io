@@ -1,18 +1,18 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body {
-	background-color: #e9d2c9;
+	background-color: #ffffff;
 	text-align: center;
 }
 
 h1 {
-	color: white;
+	color: black;
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;;
 	font-size: 16px;
 }
 h2 {
-	color: white;
+	color: black;
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
@@ -21,13 +21,12 @@ h2 {
 }
 
 p {
-	font-family: 'Montserrat', sans-serif;	color: white;
+	font-family: 'Montserrat', sans-serif;
+	color: black;
 	text-align: center
-	background-color: white;
-
 
 }
 
 a {
-	color: #530000;
+	color: #eeeeee;
 }

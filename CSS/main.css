@@ -7,6 +7,10 @@ body {
 	color: #222222;
 }
 
+header{
+	background-color: #e9d2c9
+}
+
 h1 {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
@@ -37,20 +41,8 @@ a {
 
 }
 
-<style>
-header {
-    background-color:#e9d2c9;
-    color:white;
-    text-align:center;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
 }
-nav {
-    line-height:30px;
-    background-color:#e9d2c9;
-    height:300px;
-    width:100px;
-
-    float:left;
-    padding:5px;	
-    }    
-
-</style>

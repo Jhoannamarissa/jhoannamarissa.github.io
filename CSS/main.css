@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 body {
 	background-color: #ffffff;
@@ -8,25 +9,25 @@ body {
 h1 {
 	color: black;
 	text-align: center;
-	font-family: 'Montserrat', sans-serif;;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 }
 h2 {
 	color: black;
 	text-align: center;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	text-decoration:none;
 	font-weight: normal;
 }
 
 p {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Lato:300', sans-serif;
 	color: black;
 	text-align: center
 
 }
 
 a {
-	color: #eeeeee;
+	color: #gray;
 }

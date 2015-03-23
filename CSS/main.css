@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Oswald:700,300);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body {
 	background-color: #e9d2c9;
@@ -8,22 +8,20 @@ body {
 h1 {
 	color: white;
 	text-align: center;
-	font-family: "Times New Roman", Times, serif;
+	font-family: 'Montserrat', sans-serif;;
 	font-size: 16px;
 }
 h2 {
-	font-family: 'Oswald', sans-serif;
 	color: white;
 	text-align: center;
-	font-family: "Times New Roman", Times, serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	text-decoration:none;
 	font-weight: normal;
 }
 
 p {
-	font-family: 'Oswald', sans-serif;
-	color: white;
+	font-family: 'Montserrat', sans-serif;	color: white;
 	text-align: center
 	background-color: white;
 
@@ -31,6 +29,5 @@ p {
 }
 
 a {
-	font-family: 'Oswald', sans-serif;
 	color: #530000;
 }

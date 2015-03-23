@@ -57,7 +57,7 @@ li {
 
 #topheader {
 	height: 1em;
-	text-align: right;
+	float: right;
 	font-family: 'Playfair Display', serif
 	font-size: .5em;
 }

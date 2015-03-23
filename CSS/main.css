@@ -9,13 +9,13 @@ body {
 h1 {
 	color: black;
 	text-align: center;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display:700', serif;
 	font-size: 16px;
 }
 h2 {
 	color: black;
 	text-align: center;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display:700', serif;
 	font-size: 16px;
 	text-decoration:none;
 	font-weight: normal;
@@ -29,5 +29,5 @@ p {
 }
 
 a {
-	color: #gray;
+	color: #434343;
 }

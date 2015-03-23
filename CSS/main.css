@@ -56,10 +56,9 @@ li {
 }
 
 #topheader {
-	background-color: #f6d9d2;
+	height: 1em;
 	text-align:left;
 	font-family: 'Playfair Display', serif
 	font-size: .5em;
-	padding: .02em;
 }
 

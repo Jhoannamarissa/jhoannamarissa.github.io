@@ -22,11 +22,17 @@ h2 {
 }
 
 p {
+<<<<<<< HEAD
 	font-family: 'Lato:300', sans-serif;
 	color: black;
 	text-align: center;
 	text-transform: uppercase;
 }
+=======
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-align: center
+>>>>>>> parent of 8f62906... background color
 
 }
 

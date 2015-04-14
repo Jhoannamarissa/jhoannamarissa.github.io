@@ -12,11 +12,25 @@ header{
 	background-color: #ffffff
 }
 
+nav{
+	font-size: 1em;
+	text-align: center;
+
+}
+
+nav a{
+text-decoration: none;
+color: #000000
+margin: 1em;
+display: inline-block;
+
+}
+
 h1 {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 h2 {
 	text-align: center;
@@ -58,11 +72,44 @@ li {
 
 #topheader {
 	text-align: right;
-	font-family: 'Playfair Display', serif
-	font-size: .5em;
+	font-family: 'Playfair Display', serif;
+	font-size: 1em;
+	display:inline;
+	margin:.5em;
 }
 
-#social {
-		width: 60px;
+#new {
+	float: left;
+	text-align: left;
+	margin: 10px;
+	padding: 10px;
+	width: 440px
+	clear:both;
 
+}
+
+#office {
+	float: left;
+	text-align: left;
+	margin: 10px;
+	padding: 10px;
+	width: 440px
+	clear: both;
+
+}
+
+#about {
+	clear:both;
+}
+
+#wrapper {
+	width: 960px
+}
+
+#office a {
+	text-decoration: underline;
+}
+
+#new a {
+	text-decoration: underline;
 }

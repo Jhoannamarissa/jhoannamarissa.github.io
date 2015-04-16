@@ -2,40 +2,39 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 body {
-	background-color: #ffffff;
+	background-color: #fff;
 	text-align: center;
-	color: #222222;
-	font-size: 16px
+	color: #222;
+	font-size: 16px;
 }
 
-header{
-	background-color: #ffffff
+header {
+	background-color: #fff;
 }
 
-nav{
+nav {
 	font-size: 1em;
 	text-align: center;
-
 }
 
-nav a{
-text-decoration: none;
-color: #000000
-margin: 1em;
-display: inline-block;
+nav a {
+	text-decoration: none;
+	color: #000;
+	margin: 1em;
+	display: inline-block;
+}
 
+h1, h2 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
 }
 
 h1 {
-	text-align: center;
-	font-family: 'Playfair Display', serif;
-	font-weight: 700;
 	font-size: 1em;
 }
+
 h2 {
-	text-align: center;
-	font-family: 'Playfair Display', serif;
-	font-weight: 700;
 	font-size: 1.5em;
 	text-decoration:none;
 	font-weight: normal;
@@ -74,7 +73,6 @@ li {
 	text-align: right;
 	font-family: 'Playfair Display', serif;
 	font-size: 1em;
-	display:inline;
 	margin:.5em;
 }
 
@@ -84,7 +82,7 @@ li {
 	margin: 10px;
 	padding: 10px;
 	width: 440px
-	clear:both;
+	clear: both;
 
 }
 
@@ -99,11 +97,7 @@ li {
 }
 
 #about {
-	clear:both;
-}
-
-#wrapper {
-	width: 960px
+	clear: both;
 }
 
 #office a {

@@ -69,41 +69,81 @@ li {
 	padding-right: 1em;
 }
 
+figcaption{
+	padding: 10px 0 10px 0;
+}
+
+#main-content {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+}
+
+#splash img{
+	width: 90%;
+}
+
 #topheader {
+	padding: 20px 0 0 0;
+	margin: 0;
+	border-bottom: 1px solid #222;
+}
+
+#topheader>div {
 	text-align: right;
-	font-family: 'Playfair Display', serif;
-	font-size: 1em;
-	margin:.5em;
+	width: 960px;
+	padding: 0 0 20px 0;
+	border: 0;
+	margin: 0 auto;
 }
 
-#new {
+#left, #right {
+	width: 400px;
+	text-align: center;
+}
+
+#left {
 	float: left;
-	text-align: left;
-	margin: 10px;
-	padding: 10px;
-	width: 440px
-	clear: both;
-
+	padding: 30px 0 0 20px;
+	margin: 0 0 30px 0;
 }
 
-#office {
-	float: left;
-	text-align: left;
-	margin: 10px;
-	padding: 10px;
-	width: 440px
-	clear: both;
-
+#right {
+	float: right;
+	padding: 160px 0 0 20px;
 }
+
 
 #about {
 	clear: both;
 }
 
-#office a {
-	text-decoration: underline;
+
+#right a {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+
 }
 
-#new a {
-	text-decoration: underline;
+
+#left a {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+
 }
+
+@media only screen and (max-width: 320px) {
+
+
+}
+
+@media only screen and (max-width: 768px) 
+
+
+
+
+
+
+
+

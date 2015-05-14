@@ -133,12 +133,18 @@ figcaption{
 
 }
 
+#Footer {
+	padding-bottom: 2em;
+}
+
 @media only screen and (max-width: 320px) {
 
 
 }
 
-@media only screen and (max-width: 768px) 
+@media only screen and (max-width: 768px) {
+	
+}
 
 
 
